@@ -1,2 +1,2 @@
 # VBS
-Just VBS projects
+Repositório dedicado a armazenar todo o meu aprendizado sobre VBS.
